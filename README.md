@@ -1,1 +1,1 @@
-Cleanrr
+This project is intended to work together with Sonarr and Radarr. It is used to automatically remove stalled downloads and ones stuck on downloading metadata.
